@@ -9,7 +9,7 @@ This code is distributed under the GNU LGPL v3.0 license.
 Install the git package and follow the instructions on a [CentOS 7 64bit](https://wiki.centos.org/Documentation)
 
 ```bash
-bash <( curl -s https://raw.githubusercontent.com/obe711/PXE-Server-Centos-7/master/pxe-server_installer.sh )
+bash <( curl -s https://raw.githubusercontent.com/obe711/PXE-Server-Centos-7/master/PXE-Server.sh )
 ```
 
 ## Password
