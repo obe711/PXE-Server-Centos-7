@@ -1,0 +1,6 @@
+ http://mirrors.oit.uci.edu/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-Minimal-1810.iso
+ CentOS-7-x86_64-Minimal-1810.iso
+
+ issabel4-USB-DVD-x86_64-20200102.iso:
+
+ http://mirror.centos.org/centos/7/os/x86_64/
